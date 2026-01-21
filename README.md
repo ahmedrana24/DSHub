@@ -1,6 +1,11 @@
-# Project109
+**DSHub** is a developer-focused platform designed to help users practice, implement, and collaborate on **data structures and algorithms** in a structured, real-world–inspired environment. Built around GitHub-like workflows, the project simulates core features such as **repository management, version control, code reviews, issue tracking, and collaboration**, all tailored specifically for learning data structures.
 
-PROJECT DESCRIPTION:
-The GitHub Repository Simulation for Data Structures project introduces a dynamic platform tailored to the needs of developers keen on honing their skills in implementing and understanding various data structures and algorithms. At its core, the project mirrors the functionalities of GitHub, seamlessly integrating version control, code review, and collaborative features into a specialized environment focused on data structure implementations. Through intuitive repository management, users can create, organize, and share their implementations while leveraging the power of version control to track changes and collaborate effectively with peers.
+The platform promotes **hands-on learning and peer collaboration**, allowing developers to create, organize, and share their implementations while efficiently tracking changes. Through discussions, reviews, and clear documentation, users gain deeper insights into **algorithmic thinking, clean coding practices, and collaborative development**. DSHub prepares developers for real open-source contributions by bridging the gap between theory and professional software workflows.
 
-Central to the project's mission is the promotion of collaboration and knowledge exchange within the developer community. By providing a platform where developers can engage in code reviews, discussions, and issue tracking, the project fosters a vibrant ecosystem where individuals can learn from each other's insights and experiences. Through clear documentation and interactive features, the GitHub Repository Simulation for Data Structures empowers developers to not only enhance their understanding of data structures but also to contribute meaningfully to open-source projects, thereby enriching the collective knowledge base of the software development community.
+Key Features
+ - Repository-based data structure implementations
+ - Version control simulation
+ - Collaborative coding environment
+ - Code reviews & discussions
+ - Issue tracking system
+ - Structured documentation for learning
